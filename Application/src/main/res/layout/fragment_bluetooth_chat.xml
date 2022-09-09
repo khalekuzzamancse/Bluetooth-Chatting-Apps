@@ -19,7 +19,7 @@
     android:background="@drawable/telegram"
               android:layout_height="match_parent"
              >
-
+//this
     <ListView
         android:id="@+id/in"
         android:layout_width="match_parent"
